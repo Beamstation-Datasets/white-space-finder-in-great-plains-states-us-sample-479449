@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in the Great Plains US (KS, MO, NE, ND, SD, OK, AR, IA) that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Great Plains States, US",
+  "export_job_id": "7938280f-8193-4cb2-b6de-e3af493861f5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 479449,
+  "location_name": "Great Plains States",
+  "location_type": "region",
+  "repo_name": "white-space-finder-in-great-plains-states-us-sample-479449",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/479449/beamstation_479449_food_and_drink-xx-all_SAMPLE_DIST.csv",
+  "sample_pct": 9.26,
+  "sample_records": 10,
+  "sample_sha256": "353445f0e673c4afabcb59c03b69e6a349e761d56c6237fddd2fb3ff0b4ad874",
+  "sample_size_bytes": 53685,
+  "total_records": 108,
+  "updated_at": "2026-04-09T14:28:42.816047+00:00"
+}
