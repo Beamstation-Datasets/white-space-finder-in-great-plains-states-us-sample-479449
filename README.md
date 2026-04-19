@@ -9,9 +9,9 @@
 | Dataset ID | `479449` |
 | Location | Great Plains States |
 | Category | Restaurants |
-| Full dataset size | 108 records |
-| Free sample size | 10 records (9.26%) |
-| Last export | 2026-04-09T14:28:42.816047+00:00 |
+| Full dataset size | 109 records |
+| Free sample size | 10 records (9.17%) |
+| Last export | 2026-04-16T15:47:17.198110+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-great-plains-states-us-sample-479449/releases/download/sample-latest/beamstation_479449_food_and_drink-xx-all_SAMPLE_DIST.csv) |
 
 ## What is in this sample
