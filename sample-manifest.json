@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bb9d32ce-4824-4da7-9118-5cbc9d03aea8",
+  "export_job_id": "95ea578a-dde6-481d-af58-a0f1afd9b353",
   "id_short": 479449,
-  "published_at": "2026-04-19T08:01:39Z",
+  "published_at": "2026-04-23T19:04:37Z",
   "repo_name": "white-space-finder-in-great-plains-states-us-sample-479449",
   "sample_asset_name": "beamstation_479449_food_and_drink-xx-all_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/479449/beamstation_479449_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "514fdfb990e73440170a4f7472a52b624b962e9cc96c39335c7a70f62a095691",
-  "sample_size_bytes": 53868,
-  "total_records": 109
+  "sample_records": 1,
+  "sample_sha256": "5af7cfa5294578bf8e13876ea2e7a801064d38dc7d1b4b41bb993a1629822f8e",
+  "sample_size_bytes": 18871,
+  "total_records": 17
 }
