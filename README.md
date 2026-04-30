@@ -1,6 +1,6 @@
 # White Space Finder in Great Plains States, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `479449` |
 | Location | Great Plains States |
 | Category | Restaurants |
-| Full dataset size | 17 records |
-| Free sample size | 1 records (5.88%) |
-| Last export | 2026-04-23T13:37:24.454445+00:00 |
+| Full dataset size | 115 records |
+| Free sample size | 11 records (9.57%) |
+| Last export | 2026-04-30T14:04:38.273666+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-great-plains-states-us-sample-479449/releases/download/sample-latest/beamstation_479449_food_and_drink-xx-all_SAMPLE_DIST.csv) |
 
 ## What is in this sample
